@@ -1,0 +1,13 @@
+#display {
+    -fx-font-size: 24px;
+    -fx-font-size: default; /* Define o tamanho da fonte padrão */
+    -fx-alignment: center-right;
+    -fx-padding: 10px;
+    -fx-padding: default; /* Define o padding padrão */
+    -fx-border-color: black;
+    -fx-border-color: default; /* Define a cor da borda padrão */
+    -fx-border-width: 1px;
+    -fx-border-width: default; /* Define a largura da borda padrão */
+    -fx-background-color: #f4f4f4;
+    -fx-background-color: default; /* Define a cor de fundo padrão */
+}
