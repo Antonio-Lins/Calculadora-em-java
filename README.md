@@ -1,7 +1,7 @@
 # Calculadora JavaFX
 
 Este é um projeto de uma calculadora simples desenvolvida em Java utilizando a biblioteca JavaFX. A aplicação possui uma interface gráfica intuitiva e permite realizar operações básicas como adição, subtração, multiplicação e divisão.
-
+ 
 ## Funcionalidades
 
 - Interface gráfica amigável.
