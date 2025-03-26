@@ -4,7 +4,7 @@ Este é um projeto de uma calculadora simples desenvolvida em Java utilizando a 
  
 ## Funcionalidades
 
-- Interface gráfica amigável.
+- Interface gráfica amigável. 
 - Botões para números de 0 a 9 e operações matemáticas.  
 - Exibição de resultados em tempo real.
 - Tratamento de erros para entradas inválidas.
